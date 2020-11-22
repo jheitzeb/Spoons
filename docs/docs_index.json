@@ -3,4 +3,5 @@
     "desc": "Bind keys with a floating help window",
     "name": "HyperKey",
     "type": "Module"
-  },
+  }
+]
